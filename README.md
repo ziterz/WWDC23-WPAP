@@ -8,4 +8,4 @@ Unleash your creativity and immerse yourself in the captivating world of WPAP, a
 WPAP Studio proudly hails from Cirebon, the birthplace of WPAP and the hometown of its founder. As a member of the WPAP Community Chapter Cirebon since 2012, my mission is to share this original and vibrant art style with the world, showcasing the incredible talent of Indonesian artists, particularly those from Cirebon.
 
 # Demo App
-https://user-images.githubusercontent.com/16526236/233450108-a072a8cb-e98a-40cd-911f-0049a11f09d4.mp4
+https://user-images.githubusercontent.com/16526236/233451568-d6f06952-a4ed-479f-aebc-b57e1ef03d07.mp4
