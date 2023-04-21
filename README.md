@@ -1,5 +1,5 @@
 # WWDC23-WPAP
-<img width="800" alt="WWDC23-WPAP" src="https://user-images.githubusercontent.com/16526236/233539514-545a861e-b125-4959-8ca8-b40abc06161c.png">
+<img width="800" alt="Thumbnail" src="https://user-images.githubusercontent.com/16526236/233540094-0ebba8d0-9a36-4563-a35c-58d5edf6f2db.png">
 
 Introducing "WPAP Studio" - Discover the World of Indonesian Geometric Pop Art!
 
@@ -8,4 +8,4 @@ Unleash your creativity and immerse yourself in the captivating world of WPAP, a
 WPAP Studio proudly hails from Cirebon, the birthplace of WPAP and the hometown of its founder. As a member of the WPAP Community Chapter Cirebon since 2012, my mission is to share this original and vibrant art style with the world, showcasing the incredible talent of Indonesian artists, particularly those from Cirebon.
 
 # Demo App
-https://user-images.githubusercontent.com/16526236/233539277-7f0cd4eb-937f-4f84-a1dc-04d098d57076.mp4
+https://user-images.githubusercontent.com/16526236/233540172-5f7b9de7-b2aa-4774-81eb-67b18377a627.mp4
